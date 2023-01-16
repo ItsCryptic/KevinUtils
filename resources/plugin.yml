@@ -1,0 +1,5 @@
+name: KevinUtils
+description: Utility plugin
+version: 1.0
+main: me.kevind.KevinUtils
+commands: {}
